@@ -1,0 +1,1 @@
+# exemple-mines-git
